@@ -1,2 +1,1 @@
-saludo = "Hola Mundo"
-print(saludo)
+print("Hola Mundo xd")
